@@ -21,8 +21,10 @@ Of the 24/7 scripts, ideally the scripts are started in order:
 3. char-change-checker.py
 
 Of the ad hoc scripts, start them whenever:
-,5. scan-update-all-chars.py
-,300. extract-guild-exp-per-day
+
+5. scan-update-all-chars.py
+
+300. extract-guild-exp-per-day
 
 The numbering is only so they are listed in the order I want them in my normal folder.
 There are probably more "best practice"-ways of achieving the same thing but this works for me.
